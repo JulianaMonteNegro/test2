@@ -6,5 +6,6 @@
 <body>
 <h1>MERGE</h1>
 <h1>Funciona merge das branches</h1>
+
 </body>
 </html>
