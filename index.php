@@ -5,6 +5,8 @@
 </head>
 <body>
 <h1>MERGE, FOOOOOOOOOOOI</h1>
-<h1>Funciona merge 2</h1>
+
+<h1>Funciona merge das branches</h1>
+
 </body>
 </html>
