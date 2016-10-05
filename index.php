@@ -6,6 +6,6 @@
 <body>
 <h1>MERGE, FOOOOOOOOOOOI</h1>
 <h1>Funciona merge das branches</h1>
-<p>opa vaai</p>
+<p>testando documentação</p>
 </body>
 </html>
