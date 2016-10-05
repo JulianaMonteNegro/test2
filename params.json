@@ -1,0 +1,6 @@
+{
+  "name": "Test2",
+  "tagline": "Teste 2",
+  "body": "### Bem-vindo ao teste 2\r\ntestando a geração de páginas automáticas\r\n\r\n### [GitHub] (https://github.com/)\r\n\r\n### testando codigo\r\n`javascript\r\n\r\n$('#telefone').mask('(00)00000-0000');\r\n`",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
