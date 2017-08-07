@@ -1,0 +1,3 @@
+OUTPUT_DIRECTORY = doc
+
+HTML_OUTPUT = html
